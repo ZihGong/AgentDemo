@@ -1,0 +1,9 @@
+{
+    "name": "classroom teacher desk",
+    "area": "class room",
+    "inner_priority": 3,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/Desk/teacher_desk.png",
+    "init_x": 3,
+    "init_y": 7
+}

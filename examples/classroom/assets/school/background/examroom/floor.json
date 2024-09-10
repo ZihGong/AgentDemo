@@ -1,0 +1,15 @@
+{
+    "name": "floor",
+    "area": "tile",
+    "inner_priority": 3,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/Tile/black_white.png",
+    "init_x": 12,
+    "init_y": 6,
+    "width": 15,
+    "height": 10,
+    "x_interval": 1,
+    "y_interval": 1,
+    "image_width": 32,
+    "image_height": 32
+}

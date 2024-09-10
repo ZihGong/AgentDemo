@@ -1,0 +1,20 @@
+{
+    "insert_file_map": {
+        "teach": "examples/classroom/assets/teach.json",
+        "exam": "examples/classroom/assets/exam.json",
+        "chat": "examples/classroom/assets/chat.json"
+    },
+    "area_priority_map": {
+        "tile": 1,
+        "class room": 2,
+        "exam room": 2,
+        "chat room": 2
+    },
+    "emoji_path_map": {
+        "microphone": "examples/classroom/assets/image/background/Item/microphone.png"
+    },
+    "speechbubble_path_map": {
+        "right": "examples/classroom/assets/image/background/SpeechBubble/right.png",
+        "left": "examples/classroom/assets/image/background/SpeechBubble/left.png"
+    }
+}

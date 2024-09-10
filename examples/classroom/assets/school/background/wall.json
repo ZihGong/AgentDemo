@@ -1,0 +1,9 @@
+{
+    "name": "wall",
+    "area": "tile",
+    "inner_priority": 4,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/Tile/wall.png",
+    "init_x": 0,
+    "init_y": 0
+}

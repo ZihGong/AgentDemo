@@ -1,0 +1,9 @@
+{
+    "name": "judge desk",
+    "area": "exam room",
+    "inner_priority": 4,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/Desk/teacher_desk.png",
+    "init_x": 17,
+    "init_y": 7
+}

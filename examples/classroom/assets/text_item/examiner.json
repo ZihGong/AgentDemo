@@ -1,0 +1,13 @@
+{
+    "name": "Examiner",
+    "profession": "Rect",
+    "area": "tile",
+    "inner_priority": 2,
+    "type": "TextPersona",
+    "foreground": [[0.1, -0.8, "examples/classroom/assets/image/font/考官.png"]],
+    "persona_config": {
+        "json_file": "examples/classroom/assets/school/persona/examiner.json",
+        "x": 1,
+        "y": 8
+    }
+}

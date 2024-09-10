@@ -1,0 +1,13 @@
+{
+    "name": "Teacher Rect",
+    "profession": "Rect",
+    "area": "tile",
+    "inner_priority": 2,
+    "type": "TextPersona",
+    "foreground": [[0.1, -0.8, "examples/classroom/assets/image/font/教师.png"]],
+    "persona_config": {
+        "json_file": "examples/classroom/assets/school/persona/teacher.json",
+        "x": 1,
+        "y": 2
+    }
+}

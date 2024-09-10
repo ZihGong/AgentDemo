@@ -1,0 +1,9 @@
+{
+    "name": "rect",
+    "area": "tile",
+    "inner_priority": 0,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/text/bg.png",
+    "init_x": 0,
+    "init_y": 0
+}

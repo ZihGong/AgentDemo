@@ -1,0 +1,13 @@
+{
+    "name": "left table",
+    "area": "chat room",
+    "inner_priority": 10,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/Desk/left.png",
+    "init_x": 29.5,
+    "init_y": 6.5,
+    "width": 1,
+    "height": 2,
+    "x_interval": 1,
+    "y_interval": 2
+}

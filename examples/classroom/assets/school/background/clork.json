@@ -1,0 +1,9 @@
+{
+    "name": "clork",
+    "area": "class room",
+    "inner_priority": 0,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/Item/clork.png",
+    "init_x": 18.5,
+    "init_y": 0.2
+}

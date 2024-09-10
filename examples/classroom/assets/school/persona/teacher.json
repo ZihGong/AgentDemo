@@ -1,0 +1,51 @@
+{
+    "profession": "Teacher",
+    "name": "Lucy",
+    "area": "class room",
+    "inner_priority": 2,
+    "type": "Persona",
+    "sprit_sheet": "examples/classroom/assets/image/persona/Lucy.png",
+    "x": 4.7,
+    "y": 5.5,
+    "action": {
+        "face_down": {
+            "second": 30
+        },
+        "insert 1": {
+            "stage": "teach",
+            "insert_action_prefix": "face_down "
+        },
+        "move_down_1": {
+            "second": 1
+        },
+        "move_right_1": {
+            "second": 1
+        },
+        "move_up_2": {
+            "second": 5
+        },
+        "move_right_2": {
+            "second": 25
+        },
+        "move_down_2": {
+            "second": 4
+        },
+        "move_left_3": {
+            "second": 3
+        },
+        "move_down_3": {
+            "second": 4
+        },
+        "insert_2": {
+            "stage": "exam",
+            "insert_action_prefix": "face_right "
+        },
+        "face_right_2": {
+            "second": 29
+        },
+        "insert_3": {
+            "stage": "chat",
+            "insert_action_prefix": "face_right "
+        }
+    }
+}

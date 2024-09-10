@@ -1,0 +1,15 @@
+{
+    "profession": "Stu",
+    "name": "Candy",
+    "area": "class room",
+    "inner_priority": 4,
+    "type": "Persona",
+    "sprit_sheet": "examples/classroom/assets/image/persona/a4.png",
+    "x": 6.7,
+    "y": 10,
+    "action": {
+        "face_up": {
+            "second": 3000
+        }
+    }
+}

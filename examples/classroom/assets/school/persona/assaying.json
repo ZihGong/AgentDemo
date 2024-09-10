@@ -1,0 +1,33 @@
+{
+    "profession": "Assaying",
+    "name": "Natasha",
+    "area": "chat room",
+    "inner_priority": 10,
+    "type": "Persona",
+    "sprit_sheet": "examples/classroom/assets/image/persona/Natasha.png",
+    "x": 37,
+    "y": 8,
+    "action": {
+        "face_left": {
+            "second": 30
+        },
+        "insert 1": {
+            "stage": "teach",
+            "insert_action_prefix": "face_left "
+        },
+        "face_left_2": {
+            "second": 43
+        },
+        "insert_2": {
+            "stage": "exam",
+            "insert_action_prefix": "face_left "
+        },
+        "face_left_3": {
+            "second": 29
+        },
+        "insert_3": {
+            "stage": "chat",
+            "insert_action_prefix": "face_left "
+        }
+    }
+}

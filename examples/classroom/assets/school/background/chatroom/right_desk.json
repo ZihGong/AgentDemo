@@ -1,0 +1,9 @@
+{
+    "name": "right table",
+    "area": "chat room",
+    "inner_priority": 10,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/Desk/right.png",
+    "init_x": 35,
+    "init_y": 7.5
+}

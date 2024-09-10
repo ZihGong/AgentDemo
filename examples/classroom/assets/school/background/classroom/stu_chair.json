@@ -1,0 +1,13 @@
+{
+    "name": "classroom stu chair",
+    "area": "class room",
+    "inner_priority": 10,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/chair/stu.png",
+    "init_x": 2.7,
+    "init_y": 10,
+    "width": 5,
+    "height": 1,
+    "x_interval": 1,
+    "y_interval": 1
+}

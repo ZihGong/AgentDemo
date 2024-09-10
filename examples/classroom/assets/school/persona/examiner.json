@@ -1,0 +1,51 @@
+{
+    "profession": "Examiner",
+    "name": "Mike",
+    "area": "exam room",
+    "inner_priority": 2,
+    "type": "Persona",
+    "sprit_sheet": "examples/classroom/assets/image/persona/Mike.png",
+    "x": 18.7,
+    "y": 5.5,
+    "action": {
+        "face_down_0": {
+            "second": 30
+        },
+        "insert_1": {
+            "stage": "teach",
+            "insert_action_prefix": "face_down "
+        },
+        "face_down_1": {
+            "second": 43
+        },
+        "insert_2": {
+            "stage": "exam",
+            "insert_action_prefix": "face_down "
+        },
+        "move_down_1": {
+            "second": 1
+        },
+        "move_right_1": {
+            "second": 1
+        },
+        "move_up_2": {
+            "second": 5
+        },
+        "move_right_2": {
+            "second": 12
+        },
+        "move_down_2": {
+            "second": 3
+        },
+        "move_left_3": {
+            "second": 4
+        },
+        "move_down_3": {
+            "second": 2
+        },
+        "insert_3": {
+            "stage": "chat",
+            "insert_action_prefix": "face_right "
+        }
+    }
+}

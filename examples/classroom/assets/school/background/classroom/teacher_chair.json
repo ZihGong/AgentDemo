@@ -1,0 +1,9 @@
+{
+    "name": "classroom teacher chair",
+    "area": "class room",
+    "inner_priority": 1,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/chair/teacher.png",
+    "init_x": 4.7,
+    "init_y": 5
+}

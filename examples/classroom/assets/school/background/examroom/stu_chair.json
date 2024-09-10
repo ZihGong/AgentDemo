@@ -1,0 +1,9 @@
+{
+    "name": "classroom stu chair",
+    "area": "exam room",
+    "inner_priority": 10,
+    "type": "Background",
+    "image": "examples/classroom/assets/image/background/chair/stu.png",
+    "init_x": 18.7,
+    "init_y": 10
+}

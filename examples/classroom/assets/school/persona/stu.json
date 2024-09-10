@@ -1,0 +1,63 @@
+{
+    "profession": "Stu",
+    "name": "Candy",
+    "area": "class room",
+    "inner_priority": 4,
+    "type": "Persona",
+    "sprit_sheet": "examples/classroom/assets/image/persona/Candy.png",
+    "x": 4.7,
+    "y": 10,
+    "action": {
+        "face_up": {
+            "second": 30
+        },
+        "insert_1": {
+            "stage": "teach",
+            "insert_action_prefix": "face_up "
+        },
+        "face_up_2": {
+            "second": 3
+        },
+        "move_up_1": {
+            "second": 1
+        },
+        "move_right_1": {
+            "second": 3
+        },
+        "move_up_2": {
+            "second": 4
+        },
+        "move_left_2": {
+            "second": 2
+        },
+        "move_up_3": {
+            "second": 4
+        },
+        "move_right_2": {
+            "second": 10
+        },
+        "move_down_1": {
+            "second": 4
+        },
+        "move_left_3": {
+            "second": 2
+        },
+        "move_down_2": {
+            "second": 4
+        },
+        "move_right_3": {
+            "second": 5
+        },
+        "move_down_3": {
+            "second": 1
+        },
+        "insert_2": {
+            "stage": "exam",
+            "insert_action_prefix": "face_up "
+        },
+        "insert_3": {
+            "stage": "chat",
+            "insert_action_prefix": "face_up "
+        }
+    }
+}
